@@ -1,0 +1,41 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#sub-titulo{
+    text-align: center;
+}
+
+img{
+    border-radius: 15%;
+    margin-right: 30px;
+    float: left;
+    right: 100px;
+    border-color:  10px solid rgb(56, 49, 44);
+}
+
+p{
+    font-family:monospace ;
+    font-style: normal;
+}
+body{
+    background-color: rgb(219, 208, 200);
+}
+
+.list-size1{
+    font-size:large;
+}
+
+.list-size2{
+    font-size:medium;
+}
+
+.list-size3{
+    font-size: small;
+}
+/*A descrição deve ficar ao lado da foto;
+Centralize seu nome na página;
+Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
+Adicione margin e padding nos elementos que julgar necessário;
+Coloque estilo somente nos itens ímpares da lista das suas habilidades.
