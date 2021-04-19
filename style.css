@@ -5,6 +5,7 @@ h1{
 
 #sub-titulo{
     text-align: center;
+    margin-bottom: 50px;
 }
 
 img{
@@ -12,15 +13,19 @@ img{
     margin-right: 30px;
     float: left;
     right: 100px;
-    border-color:  10px solid rgb(56, 49, 44);
+    border:  5px solid rgb(126, 126, 126);
+    padding: 2px 2px;
 }
 
 p{
     font-family:monospace ;
     font-style: normal;
+    font-size: large;
+    padding: 20px;
+    
 }
 body{
-    background-color: rgb(219, 208, 200);
+    background-color: rgb(230, 226, 223);
 }
 
 .list-size1{
@@ -33,6 +38,15 @@ body{
 
 .list-size3{
     font-size: small;
+}
+
+.links{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.impares{
+    font-style: oblique;
 }
 /*A descrição deve ficar ao lado da foto;
 Centralize seu nome na página;
